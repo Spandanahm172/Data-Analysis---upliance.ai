@@ -12,13 +12,6 @@
 
 ---
 
-## Project Structure
-
-- **data/**: Contains the datasets used for analysis (e.g., user_details.csv, cooking_sessions.csv).  
-- **notebooks/**: Jupyter Notebook(s) with the detailed analysis code.  
-
----
-
 ## Setup Instructions
 
 1. **Clone the Repository**:  
